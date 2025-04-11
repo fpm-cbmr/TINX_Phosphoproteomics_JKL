@@ -1,0 +1,13 @@
+ID	Intensity	Contraction
+M1	1,19364625	Rest
+M2	0,734050239	Rest
+M3	1,270198375	Rest
+M4	0,873921102	Rest
+M5	0,869558997	Rest
+M6	1,058625037	Rest
+M1	0,9828991	Contraction
+M2	1,805775537	Contraction
+M3	1,006705212	Contraction
+M4	0,911125099	Contraction
+M5	0,756053293	Contraction
+M6	0,881739105	Contraction

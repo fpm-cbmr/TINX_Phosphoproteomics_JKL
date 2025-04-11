@@ -1,0 +1,17 @@
+ID	Delta GU	Contraction
+M1	-5,74327	Rest
+M2	-10,5305	Rest
+M3	-3,20509	Rest
+M4	4,831199	Rest
+M5	-4,35547	Rest
+M6	-6,80563	Rest
+M7	-7,73701	Rest
+M8	-2,31291	Rest
+M9	-13,6838	Contraction
+M10	-6,06099	Contraction
+M11	-9,02175	Contraction
+M12	-21,983	Contraction
+M13	-8,39198	Contraction
+M14	-19,7903	Contraction
+M15	-10,2112	Contraction
+M16	0,594421	Contraction

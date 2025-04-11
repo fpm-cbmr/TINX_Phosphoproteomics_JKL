@@ -1,0 +1,17 @@
+Diet	Injection	deltaBG
+LFD	Saline	1,3
+LFD	Saline	-0,3
+LFD	Saline	-1,2
+LFD	Saline	-0,4
+LFD	Insulin	-5,6
+LFD	Insulin	-7,5
+LFD	Insulin	-7,1
+LFD	Insulin	-8,1
+HFD	Saline	0,6
+HFD	Saline	-0,8
+HFD	Saline	0,3
+HFD	Saline	-0,3
+HFD	Insulin	-2,6
+HFD	Insulin	-4,7
+HFD	Insulin	-6,1
+HFD	Insulin	-2,8

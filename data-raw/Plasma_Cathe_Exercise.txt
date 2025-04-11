@@ -1,0 +1,17 @@
+id	time	day	epi	nor
+tinx01	pre	exercise	0,70	1,42
+tinx01	post	exercise	2,05	5,58
+tinx02	pre	exercise	0,33	3,01
+tinx02	post	exercise	0,46	1,53
+tinx03	pre	exercise	12,72	11,42
+tinx03	post	exercise	9,96	13,30
+tinx04	pre	exercise	0,09	2,24
+tinx04	post	exercise	11,79	12,59
+tinx05	pre	exercise	0,50	1,28
+tinx05	post	exercise	9,38	12,73
+tinx06	pre	exercise	0,13	1,80
+tinx06	post	exercise	9,30	7,53
+tinx07	pre	exercise	0,43	2,25
+tinx07	post	exercise	8,25	9,41
+tinx08	pre	exercise	0,05	1,60
+tinx08	post	exercise	4,64	9,30
